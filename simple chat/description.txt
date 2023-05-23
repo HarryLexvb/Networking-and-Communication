@@ -1,1 +1,0 @@
-In this folder there is a simple threadless chat between a server and a client using sockets and TCP
